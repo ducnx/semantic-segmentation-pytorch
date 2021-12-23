@@ -1,4 +1,6 @@
 *.pyc
+.git/
+.vscode/
 
 ckpt/
 vis/
